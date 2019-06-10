@@ -1,0 +1,2 @@
+webpackJsonp([0x9b544cfa2a85],{765:function(t,a){t.exports={data:{page:null,footnote:{id:"/home/travis/build/brute4s99/pydata/blog/content/parts/footnote.md absPath of file >>> MarkdownRemark",html:'<ul>\n<li>personalised with 💙 by <a href="https://github.com/brute4s99">Piyush Aggarwal</a> | based on a GatsbyJS starter by <a href="https://github.com/greglobinski">Greg Lobinski</a></li>\n</ul>'},site:{siteMetadata:{facebook:{appId:""}}}},pathContext:{slug:"/pydata/success/"}}}});
+//# sourceMappingURL=path---success-136504948337f011cfd7.js.map
