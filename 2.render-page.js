@@ -80,7 +80,7 @@ exports.modules = {
 	        frontmatter = post.frontmatter;
 	    var title = frontmatter.title;
 	
-	    var url = _config2.default.siteUrl + slug;
+	    var url = _config2.default.siteUrl + _config2.default.pathPrefix + slug;
 	
 	    var iconSize = 36;
 	    var filter = function filter(count) {
