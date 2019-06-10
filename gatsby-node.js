@@ -15,7 +15,7 @@ exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
     createNodeField({
       node,
       name: `slug`,
-      value: `${separtorIndex ? "/" : ""}${slug.substring(shortSlugStart)}`
+      value: `${separtorIndex ? "/" : ""}pydata/${slug.substring(shortSlugStart)}`
     });
     createNodeField({
       node,
@@ -63,7 +63,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
             path: slug,
             component: isPost ? postTemplate : pageTemplate,
             context: {
-              slug: '/pydata' + slug
+              slug: slug
             }
           });
         });

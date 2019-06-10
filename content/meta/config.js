@@ -6,6 +6,7 @@ module.exports = {
   siteDescription: "PyData Delhi 2019.",
   siteUrl: "https://piyush.tech",
   pathPrefix: "/pydata",
+  assetPrefix: `/pydata`,
   siteImage: "../../src/images/jpg/avatar.jpg",
   siteLanguage: "en",
   // author
