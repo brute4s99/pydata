@@ -1,48 +1,52 @@
 {
   "assetsByChunkName": {
-    "path---contributing-to-pandas": [
-      "path---contributing-to-pandas-d1cbf554e7da11f5e2bd.js",
-      "path---contributing-to-pandas-d1cbf554e7da11f5e2bd.js.map"
+    "path---pydata-arch": [
+      "path---pydata-arch-7baa4130901a94374a43.js",
+      "path---pydata-arch-7baa4130901a94374a43.js.map"
     ],
-    "path---my-testimony-about-blockchain-p-2": [
-      "path---my-testimony-about-blockchain-p-2-766f8ccdafd5d3b23d37.js",
-      "path---my-testimony-about-blockchain-p-2-766f8ccdafd5d3b23d37.js.map"
+    "path---pydata-a-better-blog": [
+      "path---pydata-a-better-blog-b91f0852aa76d4a84408.js",
+      "path---pydata-a-better-blog-b91f0852aa76d4a84408.js.map"
     ],
-    "path---arcanist": [
-      "path---arcanist-9badaab7be4cb356f91d.js",
-      "path---arcanist-9badaab7be4cb356f91d.js.map"
+    "path---pydata-about": [
+      "path---pydata-about-914ff624caac52294a99.js",
+      "path---pydata-about-914ff624caac52294a99.js.map"
+    ],
+    "path---pydata-contributing-to-pandas": [
+      "path---pydata-contributing-to-pandas-e715537b33cbf92452a2.js",
+      "path---pydata-contributing-to-pandas-e715537b33cbf92452a2.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-aa9570313651ef926b5a.js",
       "component---src-pages-index-js-aa9570313651ef926b5a.js.map"
     ],
     "path---": [
-      "path----3ec8b7905d682300b7ed.js",
-      "path----3ec8b7905d682300b7ed.js.map"
+      "path----0e0d0540b93d0b1f24ce.js",
+      "path----0e0d0540b93d0b1f24ce.js.map"
     ],
     "component---src-pages-contact-js": [
       "component---src-pages-contact-js-2bf9accb731f415c2bc1.js",
       "component---src-pages-contact-js-2bf9accb731f415c2bc1.js.map"
     ],
-    "path---arch": [
-      "path---arch-94a95402fb56594a2941.js",
-      "path---arch-94a95402fb56594a2941.js.map"
+    "path---pydata-abc-of-unix": [
+      "path---pydata-abc-of-unix-acb754745c05c6fb7718.js",
+      "path---pydata-abc-of-unix-acb754745c05c6fb7718.js.map"
     ],
-    "path---abc-of-unix": [
-      "path---abc-of-unix-86a1714f2bacc6bf7079.js",
-      "path---abc-of-unix-86a1714f2bacc6bf7079.js.map"
+    "path---pydata-success": [
+      "path---pydata-success-97d0e9026a742f3f2caa.js",
+      "path---pydata-success-97d0e9026a742f3f2caa.js.map"
+    ],
+    "path---pydata-my-testimony-about-blockchain-p-2": [
+      "path---pydata-my-testimony-about-blockchain-p-2-7c2abfd71aec9f40650d.js",
+      "path---pydata-my-testimony-about-blockchain-p-2-7c2abfd71aec9f40650d.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-aa01234cbbbaed82e133.js",
-      "component---src-layouts-index-js-aa01234cbbbaed82e133.js.map"
-    ],
-    "path---breaking-free": [
-      "path---breaking-free-706eef99700923f45145.js",
-      "path---breaking-free-706eef99700923f45145.js.map"
+      "component---src-layouts-index-js-c943326700f237883e3f.js",
+      "component---src-layouts-index-js-c943326700f237883e3f.js.map"
     ],
     "path---index": [
       "path---index-206ac74de0d3aab26f03.js",
@@ -52,85 +56,81 @@
       "component---src-pages-search-js-fc0a6023897f93f0acce.js",
       "component---src-pages-search-js-fc0a6023897f93f0acce.js.map"
     ],
-    "path---recovering-arch-from-hell": [
-      "path---recovering-arch-from-hell-7bda709b9c70541aa02e.js",
-      "path---recovering-arch-from-hell-7bda709b9c70541aa02e.js.map"
+    "path---pydata-breaking-free": [
+      "path---pydata-breaking-free-700af6eefca7336d7a14.js",
+      "path---pydata-breaking-free-700af6eefca7336d7a14.js.map"
     ],
     "commons": [
-      "commons-4e50098b3291abe20cd5.js",
+      "commons-ee05ae9d4b3e8371e383.js",
       "build-js-styles.css",
-      "commons-4e50098b3291abe20cd5.js.map",
+      "commons-ee05ae9d4b3e8371e383.js.map",
       "build-js-styles.css.map"
-    ],
-    "path---success": [
-      "path---success-136504948337f011cfd7.js",
-      "path---success-136504948337f011cfd7.js.map"
-    ],
-    "path---its-a-blog": [
-      "path---its-a-blog-fa606bfedb884f35b335.js",
-      "path---its-a-blog-fa606bfedb884f35b335.js.map"
-    ],
-    "path---a-real-life-hogwarts": [
-      "path---a-real-life-hogwarts-09cb241579d726a8c2d5.js",
-      "path---a-real-life-hogwarts-09cb241579d726a8c2d5.js.map"
-    ],
-    "path---the-git-flow": [
-      "path---the-git-flow-b4407fada922d2dcc171.js",
-      "path---the-git-flow-b4407fada922d2dcc171.js.map"
-    ],
-    "path---hello-gsoc": [
-      "path---hello-gsoc-d2f8d5532379cdb01c39.js",
-      "path---hello-gsoc-d2f8d5532379cdb01c39.js.map"
     ],
     "path---contact": [
       "path---contact-a0e39f21c11f6a62c5ab.js",
       "path---contact-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---pydata-recovering-arch-from-hell": [
+      "path---pydata-recovering-arch-from-hell-2a64faccb6cc406a6d9d.js",
+      "path---pydata-recovering-arch-from-hell-2a64faccb6cc406a6d9d.js.map"
+    ],
     "component---src-templates-post-template-js": [
       "component---src-templates-post-template-js-c66022ff14cd92e05278.js",
       "component---src-templates-post-template-js-c66022ff14cd92e05278.js.map"
     ],
-    "path---muli-booting": [
-      "path---muli-booting-9ffe99c1fc66760825ab.js",
-      "path---muli-booting-9ffe99c1fc66760825ab.js.map"
+    "path---pydata-hello-gsoc": [
+      "path---pydata-hello-gsoc-d0102d41fb73ea6a4024.js",
+      "path---pydata-hello-gsoc-d0102d41fb73ea6a4024.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---blurred-lines": [
-      "path---blurred-lines-6ba4b2d43cb4165687ea.js",
-      "path---blurred-lines-6ba4b2d43cb4165687ea.js.map"
+    "path---pydata-muli-booting": [
+      "path---pydata-muli-booting-a58d5021baa8ae428d23.js",
+      "path---pydata-muli-booting-a58d5021baa8ae428d23.js.map"
+    ],
+    "path---pydata-blurred-lines": [
+      "path---pydata-blurred-lines-3eee9fa7c52b2802a672.js",
+      "path---pydata-blurred-lines-3eee9fa7c52b2802a672.js.map"
+    ],
+    "path---pydata-arcanist": [
+      "path---pydata-arcanist-5199664bf73f05ed4f20.js",
+      "path---pydata-arcanist-5199664bf73f05ed4f20.js.map"
+    ],
+    "path---pydata-its-a-blog": [
+      "path---pydata-its-a-blog-97046bcf9a9bede9a9f1.js",
+      "path---pydata-its-a-blog-97046bcf9a9bede9a9f1.js.map"
     ],
     "app": [
-      "app-1bfe1828129232769b70.js",
+      "app-50fe3bc0c7fc8a3fc7f8.js",
       "build-js-styles.css",
-      "app-1bfe1828129232769b70.js.map",
+      "app-50fe3bc0c7fc8a3fc7f8.js.map",
       "build-js-styles.css.map"
-    ],
-    "path---links": [
-      "path---links-2bdcfe4d71f4f214f66c.js",
-      "path---links-2bdcfe4d71f4f214f66c.js.map"
     ],
     "component---src-templates-page-template-js": [
       "component---src-templates-page-template-js-e0434750f574a9276ef2.js",
       "component---src-templates-page-template-js-e0434750f574a9276ef2.js.map"
     ],
-    "path---my-testimony-about-blockchain-p-1": [
-      "path---my-testimony-about-blockchain-p-1-805cc39c81e6461f77d4.js",
-      "path---my-testimony-about-blockchain-p-1-805cc39c81e6461f77d4.js.map"
+    "path---pydata-a-real-life-hogwarts": [
+      "path---pydata-a-real-life-hogwarts-da08a3c636aa4d4412d2.js",
+      "path---pydata-a-real-life-hogwarts-da08a3c636aa4d4412d2.js.map"
     ],
-    "path---a-better-blog": [
-      "path---a-better-blog-df17fda4edfb08e785ec.js",
-      "path---a-better-blog-df17fda4edfb08e785ec.js.map"
+    "path---pydata-my-testimony-about-blockchain-p-1": [
+      "path---pydata-my-testimony-about-blockchain-p-1-0ea9131bc96ed36d10ab.js",
+      "path---pydata-my-testimony-about-blockchain-p-1-0ea9131bc96ed36d10ab.js.map"
+    ],
+    "path---pydata-the-git-flow": [
+      "path---pydata-the-git-flow-cb0efa5dd9a93483b3a2.js",
+      "path---pydata-the-git-flow-cb0efa5dd9a93483b3a2.js.map"
     ],
     "path---search": [
       "path---search-b4a2c452bea2e665bd8d.js",
       "path---search-b4a2c452bea2e665bd8d.js.map"
     ],
-    "path---about": [
-      "path---about-c2b3354e18d0848ebcad.js",
-      "path---about-c2b3354e18d0848ebcad.js.map"
+    "path---pydata-links": [
+      "path---pydata-links-ed0a08928a37f48eb971.js",
+      "path---pydata-links-ed0a08928a37f48eb971.js.map"
     ]
   }
 }
